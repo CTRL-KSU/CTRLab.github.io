@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew J. A. Craig"
-title_separator          : "Ph.D. Student, Communication & Information"
+title                    : "CTRLab @ KSU"
+title_separator          : "If a machine is expected to be infallible, it cannot also be intelligent. - Alan Turing"
 name                     : &name "Matthew J. A. Craig"
 description              : &description "personal description"
-url                      : https://mcdv7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ctrl-ksu.github.io/CTRLab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mcdv7.github.io"
+repository               : "CTRLab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew JA Craig"
+  name             : "CTRLab @ KSU"
   avatar           : "profile.png"
-  bio              : "Doctoral student at Kent State University CCI studying our communication with and through machines (Communication Technology, Society, & Interpersonal)"
+  bio              : "Communication Technology Research Labs at Kent State University College of Communication and Information"
   location         : "Kent, Ohio"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_RX3IlkAAAAJ&hl=en&oi=sra"
-  email            : "matthewjacraig@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Matthew-Craig-9"
+  googlescholar    : 
+  email            : "mcraig27@kent.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mcdv7"
+  github           : "CTRL-KSU"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : "https://profiles.impactstory.org/u/0000-0002-4824-566X"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4824-566X"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "18128260/mcdv7"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Matthew_JACraig"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
